@@ -1,15 +1,18 @@
 # Luis Alfonso Olivares Jiménez
-### Maestro en Ciencias (Física Médica)
 Físico Médico en Radioterapia <br/>
 Centro Estatal de Oncología "Dr. Rubén Cardoza Macías" <br/>
 La Paz, Baja California Sur, México. <br/>
 
-## Afiliación a Sociedades
+## Formación académica 
+* Maestría en Ciencias (Física Médica), Universidad Nacional Autónoma de México
+* Residencia hospitalaria en el Instituto Nacional de Cancerología, Méxixo
+
+## Afiliación a sociedades
 * Sociedad Mexicana de Físicos en Medicina (SMFM). Miembro de la Comisión de Radioterapia.
 * Sociedad Mexicana de Radioterapeutas (SOMERA)
 * Sociedad Norteamericana de Físicos en Medicina (AAPM, por sus siglas en inglés)
 
-## Exposición en congresos y simposios
+## Presentación de trabajos y exposiciones
 * (2021) XIX Congreso SOMERA. Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19
 * (2021) 2° Simposium de Imagenología (en línea). “La radioterapia como modalidad de tratamiento contra el cáncer usando radiación”. La Paz, BCS.
 * (2020) LXIII Congreso Nacional de Física (en línea). “Medición de factores de dispersión total para campos pequeños en un haz 6 MV sin filtro de aplanado usando película radiocrómica EBT3”.
@@ -28,6 +31,10 @@ La Paz, Baja California Sur, México. <br/>
 * (2018) 2 o. Simposio Internacional de Radiocirugía del Hospital Español, Ciudad de México.
 * (2017) 3er. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México.
 * (2016) 2do. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México
+
+## Especialidades
+* Dosimetría con película radiocrómica.
+* Desarrollo de software para verificaciones de garantía de calidad paciente específico.
 <!--
 **LuisOlivaresJ/LuisOlivaresJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
