@@ -1,5 +1,5 @@
 # Luis Alfonso Olivares Jiménez
-Físico Médico en Radioterapia <br/>
+Físico Médico en radioterapia <br/>
 Centro Estatal de Oncología "Dr. Rubén Cardoza Macías" <br/>
 La Paz, Baja California Sur, México. <br/>
 
