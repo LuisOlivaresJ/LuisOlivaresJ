@@ -34,7 +34,7 @@ La Paz, Baja California Sur, México. <br/>
 
 ## Especialidades
 * Dosimetría con película radiocrómica.
-* Desarrollo de software para verificaciones de garantía de calidad paciente específico.
+* Desarrollo de software en Python
 <!--
 **LuisOlivaresJ/LuisOlivaresJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
