@@ -4,8 +4,9 @@ Centro Estatal de Oncología "Dr. Rubén Cardoza Macías" <br/>
 La Paz, Baja California Sur, México. <br/>
 
 ## Formación académica 
+* Residencia hospitalaria en el Instituto Nacional de Cancerología, Méxixo (INCan)
 * Maestría en Ciencias (Física Médica), Universidad Nacional Autónoma de México (UNAM)
-* Residencia hospitalaria Instituto Nacional de Cancerología, Méxixo (INCan)
+* Licenciatura en Física, Universidad de Guadalajara
 
 ## Afiliación a sociedades
 * Sociedad Mexicana de Físicos en Medicina (SMFM). Miembro de la Comisión de Radioterapia.
