@@ -23,6 +23,7 @@ La Paz, Baja California Sur, México. <br/>
 * (2015) LVIII Congreso Nacional de Física, Mérida, Yucatán. “Caracterización de un escáner para procedimientos de dosimetría con película radiocrómica EBT3"
 
 ## Asistencia a cursos nacionales e internacionales
+* (2021) V Curso Nacional de Radioterapia ABC a la vanguardia de la tecnología
 * (2021) 38 Reunión Anual del Instituto Nacional de Cancerología. Innovaciones en radio oncología. INCan, Ciudad de México.
 * (2021) XIX Congreso SOMERA Nacional y I Internacional
 * (2020) 37 Reunión anual medica del INCan, Tópicos selectos de radioterapia, INCan, Ciudad de México.
@@ -34,8 +35,8 @@ La Paz, Baja California Sur, México. <br/>
 * (2016) 2do. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México
 
 ## Especialidades
-* Dosimetría con película radiocrómica.
-* Desarrollo de software en Python
+* Dosimetría con película radiocrómica EBT3.
+* Desarrollo de software en Python.
 <!--
 **LuisOlivaresJ/LuisOlivaresJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
