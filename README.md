@@ -15,8 +15,8 @@ La Paz, Baja California Sur, México. <br/>
 
 ## Presentación de trabajos y exposiciones
 * (2021) XIX Congreso SOMERA. Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19
-* (2021) 2° Simposium de Imagenología (en línea). “La radioterapia como modalidad de tratamiento contra el cáncer usando radiación”. La Paz, BCS.
 * (2020) LXIII Congreso Nacional de Física (en línea). “Medición de factores de dispersión total para campos pequeños en un haz 6 MV sin filtro de aplanado usando película radiocrómica EBT3”.
+* (2020) 2° Simposium de Imagenología (en línea). “La radioterapia como modalidad de tratamiento contra el cáncer usando radiación”. La Paz, BCS.
 * (2018) World Congress on Medical Physics & Biomedical Engineering, Prague, Czech Republic. “Dose distribution in modern radiotherapy using radiochromic films: whole brain radiation therapy with hippocampal avoidance with IMRT technique”
 * (2018) XV Mexican Symposium on Medical Physics, “Distribución de dosis en radioterapia moderna usando película radiocrómica: irradiación de cerebro completo con protección a hipocampo con la técnica IMRT". Centro de Ciencias de la Complejidad, UNAM, Ciudad de México.
 * (2017) LX Congreso Nacional de Física, Monterrey, Nuevo León. “Caracterización de un haz de rayos-x de 6MV para radioterapia de cerebro completo y de columna usando cámaras de ionización”
