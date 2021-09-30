@@ -24,7 +24,10 @@ La Paz, Baja California Sur, México. <br/>
 
 ## Asistencia a cursos nacionales e internacionales
 * (2021) V Curso Nacional de Radioterapia ABC a la vanguardia de la tecnología
+* (2021) Simposio Virtual Braquiterapia Ginecológica, Hospital San Javier, Guadalajara.
+* (2021) Simposio de Medicina de Presición en Oncología y Radiómica, Médica Sur, Ciudad de México.
 * (2021) 38 Reunión Anual del Instituto Nacional de Cancerología. Innovaciones en radio oncología. INCan, Ciudad de México.
+* (2021) Taller de Braquiterapia 3D tumores GYN Oncentra, SOMERA
 * (2021) XIX Congreso SOMERA Nacional y I Internacional
 * (2020) 37 Reunión anual medica del INCan, Tópicos selectos de radioterapia, INCan, Ciudad de México.
 * (2019) Workshop de contorneo y planeación. INCan, Varian-EYMSA. Ciudad de México.
