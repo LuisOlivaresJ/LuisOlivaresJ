@@ -14,6 +14,7 @@ La Paz, Baja California Sur, México. <br/>
 * Sociedad Norteamericana de Físicos en Medicina (AAPM, por sus siglas en inglés)
 
 ## Presentación de trabajos y exposiciones
+* (2021) Sociedad Mexicana de Físicos en Medicina. Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT. 
 * (2021) XIX Congreso SOMERA. Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19
 * (2020) LXIII Congreso Nacional de Física (en línea). “Medición de factores de dispersión total para campos pequeños en un haz 6 MV sin filtro de aplanado usando película radiocrómica EBT3”.
 * (2020) 2° Simposium de Imagenología (en línea). “La radioterapia como modalidad de tratamiento contra el cáncer usando radiación”. La Paz, BCS.
