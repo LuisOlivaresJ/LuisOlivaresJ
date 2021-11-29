@@ -14,9 +14,9 @@ La Paz, Baja California Sur, México. <br/>
 * Sociedad Norteamericana de Físicos en Medicina (AAPM, por sus siglas en inglés)
 
 ## Presentación de trabajos
-* (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia. 
-* (2021) Sociedad Mexicana de Físicos en Medicina. Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT. 
-* (2021) XIX Congreso SOMERA. Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19
+* (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia" 
+* (2021) Sociedad Mexicana de Físicos en Medicina. "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT" 
+* (2021) XIX Congreso SOMERA. "Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19"
 * (2020) LXIII Congreso Nacional de Física (en línea). “Medición de factores de dispersión total para campos pequeños en un haz 6 MV sin filtro de aplanado usando película radiocrómica EBT3”.
 * (2020) 2° Simposium de Imagenología (en línea). “La radioterapia como modalidad de tratamiento contra el cáncer usando radiación”. La Paz, BCS.
 * (2018) World Congress on Medical Physics & Biomedical Engineering, Prague, Czech Republic. “Dose distribution in modern radiotherapy using radiochromic films: whole brain radiation therapy with hippocampal avoidance with IMRT technique”
