@@ -25,6 +25,7 @@ La Paz, Baja California Sur, México. <br/>
 * (2015) LVIII Congreso Nacional de Física, Mérida, Yucatán. “Caracterización de un escáner para procedimientos de dosimetría con película radiocrómica EBT3"
 
 ## Asistencia a cursos nacionales e internacionales
+* (2022) ESTRO Comprehensive and practical brachytherapy, Hospital Español, CDMX.
 * (2021) Selected Topics of Radiotheraphy, IAOM INCan. 
 * (2021) V Curso Nacional de Radioterapia ABC a la vanguardia de la tecnología
 * (2021) Simposio Virtual Braquiterapia Ginecológica, Hospital San Javier, Guadalajara.
