@@ -14,6 +14,7 @@ La Paz, Baja California Sur, México. <br/>
 * Sociedad Norteamericana de Físicos en Medicina (AAPM, por sus siglas en inglés)
 
 ## Presentación de trabajos
+* (2023) Sociedad Mexicana de Físicos en Medicina. Aplicaciones de Python en Física Médica. 
 * (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia" 
 * (2021) Sociedad Mexicana de Físicos en Medicina. "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT" 
 * (2021) XIX Congreso SOMERA. "Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19"
