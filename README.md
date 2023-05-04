@@ -45,6 +45,12 @@ La Paz, Baja California Sur, México. <br/>
 ## Especialidades
 * Dosimetría con película radiocrómica EBT3.
 * Desarrollo de software en Python.
+
+## Technical knowledge
+* Use of Github
+* Packaging Python Projects
+* Read The Docs for projects documentation
+* Jekyll for static website generator
 <!--
 **LuisOlivaresJ/LuisOlivaresJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
