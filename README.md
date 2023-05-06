@@ -9,9 +9,9 @@
 * Physicists, Universidad de Guadalajara (UdeG), México
 
 ## Affiliation to societies
-* Sociedad Mexicana de Físicos en Medicina (SMFM). Miembro de la Comisión de Radioterapia.
+* Sociedad Mexicana de Físicos en Medicina (SMFM). Radiotherapy committee member.
 * Sociedad Mexicana de Radioterapeutas (SOMERA)
-* Sociedad Norteamericana de Físicos en Medicina (AAPM, por sus siglas en inglés)
+* American Association of Physicists in Medicine (AAPM)
 
 ## Scientific exhibitions
 * (2023) Sociedad Mexicana de Físicos en Medicina. Aplicaciones de Python en Física Médica. 
