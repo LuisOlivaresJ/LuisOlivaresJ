@@ -1,19 +1,19 @@
 # Luis Alfonso Olivares Jiménez
-Físico Médico en Radioterapia <br/>
-Centro Estatal de Oncología "Dr. Rubén Cardoza Macías" <br/>
-La Paz, Baja California Sur, México. <br/>
+* Medical Physicists in radiotherapy
+* Centro Estatal de Oncología "Dr. Rubén Cardoza Macías"
+* La Paz, Baja California Sur, México.
 
-## Formación académica 
-* Residencia hospitalaria en el Instituto Nacional de Cancerología (INCan) México 
-* Maestría en Ciencias (Física Médica), Universidad Nacional Autónoma de México (UNAM)
-* Licenciatura en Física, Universidad de Guadalajara
+## Academic profile 
+* Hospital training, Instituto Nacional de Cancerología (INCan) México 
+* MSc (Medical Physics), Universidad Nacional Autónoma de México (UNAM)
+* Physicists, Universidad de Guadalajara (UdeG), México
 
-## Afiliación a sociedades
+## Affiliation to societies
 * Sociedad Mexicana de Físicos en Medicina (SMFM). Miembro de la Comisión de Radioterapia.
 * Sociedad Mexicana de Radioterapeutas (SOMERA)
 * Sociedad Norteamericana de Físicos en Medicina (AAPM, por sus siglas en inglés)
 
-## Presentación de trabajos
+## Scientific exhibitions
 * (2023) Sociedad Mexicana de Físicos en Medicina. Aplicaciones de Python en Física Médica. 
 * (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia" 
 * (2021) Sociedad Mexicana de Físicos en Medicina. "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT" 
@@ -25,7 +25,7 @@ La Paz, Baja California Sur, México. <br/>
 * (2017) LX Congreso Nacional de Física, Monterrey, Nuevo León. “Caracterización de un haz de rayos-x de 6MV para radioterapia de cerebro completo y de columna usando cámaras de ionización”
 * (2015) LVIII Congreso Nacional de Física, Mérida, Yucatán. “Caracterización de un escáner para procedimientos de dosimetría con película radiocrómica EBT3"
 
-## Asistencia a cursos nacionales e internacionales
+## National and international meetings
 * (2022) ESTRO Comprehensive and practical brachytherapy, Hospital Español, CDMX.
 * (2021) Selected Topics of Radiotheraphy, IAOM INCan. 
 * (2021) V Curso Nacional de Radioterapia ABC a la vanguardia de la tecnología
@@ -42,12 +42,14 @@ La Paz, Baja California Sur, México. <br/>
 * (2017) 3er. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México.
 * (2016) 2do. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México
 
-## Especialidades
-* Dosimetría con película radiocrómica EBT3.
-* Desarrollo de software en Python.
+## Experience level
 
-## Technical knowledge
-* Use of Github
+### Intermediate-Advanced 
+* Radiochromic film dosimetry.
+* Python scriptng.
+
+### Intermediate 
+* Github usage
 * Packaging Python Projects
 * Read The Docs for projects documentation
 * Jekyll for static website generator
