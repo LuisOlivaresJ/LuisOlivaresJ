@@ -1,5 +1,5 @@
 # Luis Alfonso Olivares Jiménez
-* Medical Physicists in radiotherapy
+* Medical Physicists in Radiotherapy
 * Centro Estatal de Oncología "Dr. Rubén Cardoza Macías"
 * La Paz, Baja California Sur, México.
 
