@@ -14,9 +14,9 @@
 * American Association of Physicists in Medicine (AAPM)
 
 ## Scientific exhibitions
-* (2023) Sociedad Mexicana de Físicos en Medicina. Aplicaciones de Python en Física Médica. 
-* (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia" 
-* (2021) Sociedad Mexicana de Físicos en Medicina. "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT" 
+* (2023) [SMFM](https://smfm.mx/) Webinar "Python applications to medical physics". 
+* (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia". 
+* (2021) [SMFM](https://smfm.mx/) Webinar "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT".
 * (2021) XIX Congreso SOMERA. "Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19"
 * (2020) LXIII Congreso Nacional de Física (en línea). “Medición de factores de dispersión total para campos pequeños en un haz 6 MV sin filtro de aplanado usando película radiocrómica EBT3”.
 * (2020) 2° Simposium de Imagenología (en línea). “La radioterapia como modalidad de tratamiento contra el cáncer usando radiación”. La Paz, BCS.
