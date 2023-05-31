@@ -4,8 +4,8 @@
 * La Paz, Baja California Sur, México.
 
 ## Academic profile 
-* Hospital training, Instituto Nacional de Cancerología (INCan) México 
-* MSc (Medical Physics), Universidad Nacional Autónoma de México (UNAM)
+* Internship, Instituto Nacional de Cancerología (INCan) México 
+* MSc degree (Medical Physics), Universidad Nacional Autónoma de México (UNAM)
 * Physicists, Universidad de Guadalajara (UdeG), México
 
 ## Affiliation to societies
