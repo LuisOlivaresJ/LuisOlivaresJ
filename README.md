@@ -3,8 +3,8 @@
 
 ## 🔭 I’m currently working on ...
 * Open source applications for medical physicists.
-  * Dosepy application for film dosimetry
-  * PyPortal: an application fot TG-307 quality assurance (QA) tests.
+  * Dosepy: an application for film dosimetry
+  * Pyportal: an application fot TG-307 quality assurance (QA) tests.
 
 ## 💬 Ask me about ...
 * Film dosimetry.
