@@ -2,11 +2,12 @@
 * Medical Physicist in Radiation Oncology
 
 ## 🔭 I’m currently working on ...
-* Centro Estatal de Oncología "Dr. Rubén Cardoza Macías", La Paz, Baja California Sur, México.
-* Dosepy application for film dosimetry
+* Open source applications for medical physicists.
+  * Dosepy application for film dosimetry
+  * PyPortal: an application fot TG-307 quality assurance (QA) tests.
 
 ## 💬 Ask me about ...
-* Radiochromic film dosimetry.
+* Film dosimetry.
 * Python scriptng.
 
 ## 🌱 I’m currently learning ...
