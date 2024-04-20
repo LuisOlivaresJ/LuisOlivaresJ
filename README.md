@@ -2,8 +2,8 @@
 * Medical Physicist in Radiation Oncology
 
 ## 🔭 I’m currently working on ...
-* Open source applications for medical physicists.
-  * Dosepy: an application for film dosimetry
+* Open source applications for medical physicists:
+  * Dosepy: an application for film dosimetry.
   * Pyportal: an application fot TG-307 quality assurance (QA) tests.
 
 ## 💬 Ask me about ...
@@ -11,30 +11,30 @@
 * Python scriptng.
 
 ## 🌱 I’m currently learning ...
-* Pylinac scripting
-* Eclipse Scripting API
+* Pylinac scripting.
+* Eclipse Scripting API.
 
 ## 👯 I’m looking to collaborate on ...
 * Open source applications for medical physics.
 
 ## Academic profile 
-* Internship, Instituto Nacional de Cancerología (INCan) México 
-* MSc degree (Medical Physics), Universidad Nacional Autónoma de México (UNAM)
-* Physicists, Universidad de Guadalajara (UdeG), México
+* Internship, Instituto Nacional de Cancerología (INCan) México.
+* MSc degree (Medical Physics), Universidad Nacional Autónoma de México (UNAM).
+* Physicists, Universidad de Guadalajara (UdeG), México.
 
 ## Affiliation to societies
 * Sociedad Mexicana de Físicos en Medicina (SMFM). Radiotherapy committee member.
-* Sociedad Mexicana de Radioterapeutas (SOMERA)
-* American Association of Physicists in Medicine (AAPM)
+* Sociedad Mexicana de Radioterapeutas (SOMERA).
+* American Association of Physicists in Medicine (AAPM).
 
 ## Scientific exhibitions
 * (2023) [SMFM](https://smfm.mx/) Webinar "Python applications to medical physics". 
 * (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia". 
 * (2021) [SMFM](https://smfm.mx/) Webinar "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT".
-* (2021) XIX Congreso SOMERA. "Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19"
+* (2021) XIX Congreso SOMERA. "Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19".
 * (2020) LXIII Congreso Nacional de Física (en línea). “Medición de factores de dispersión total para campos pequeños en un haz 6 MV sin filtro de aplanado usando película radiocrómica EBT3”.
 * (2020) 2° Simposium de Imagenología (en línea). “La radioterapia como modalidad de tratamiento contra el cáncer usando radiación”. La Paz, BCS.
-* (2018) World Congress on Medical Physics & Biomedical Engineering, Prague, Czech Republic. “Dose distribution in modern radiotherapy using radiochromic films: whole brain radiation therapy with hippocampal avoidance with IMRT technique”
+* (2018) World Congress on Medical Physics & Biomedical Engineering, Prague, Czech Republic. “Dose distribution in modern radiotherapy using radiochromic films: whole brain radiation therapy with hippocampal avoidance with IMRT technique”.
 * (2018) XV Mexican Symposium on Medical Physics, “Distribución de dosis en radioterapia moderna usando película radiocrómica: irradiación de cerebro completo con protección a hipocampo con la técnica IMRT". Centro de Ciencias de la Complejidad, UNAM, Ciudad de México.
 * (2017) LX Congreso Nacional de Física, Monterrey, Nuevo León. “Caracterización de un haz de rayos-x de 6MV para radioterapia de cerebro completo y de columna usando cámaras de ionización”
 * (2015) LVIII Congreso Nacional de Física, Mérida, Yucatán. “Caracterización de un escáner para procedimientos de dosimetría con película radiocrómica EBT3"
