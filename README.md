@@ -1,7 +1,20 @@
 # Luis Alfonso Olivares Jiménez
 * Medical Physicist in Radiation Oncology
-* Centro Estatal de Oncología "Dr. Rubén Cardoza Macías"
-* La Paz, Baja California Sur, México.
+
+## 🔭 I’m currently working on ...
+* Centro Estatal de Oncología "Dr. Rubén Cardoza Macías", La Paz, Baja California Sur, México.
+* Dosepy application for film dosimetry
+
+## 💬 Ask me about ...
+* Radiochromic film dosimetry.
+* Python scriptng.
+
+## 🌱 I’m currently learning ...
+* Pylinac scripting
+* Eclipse Scripting API
+
+## 👯 I’m looking to collaborate on ...
+* Open source applications for medical physics.
 
 ## Academic profile 
 * Internship, Instituto Nacional de Cancerología (INCan) México 
@@ -42,17 +55,9 @@
 * (2017) 3er. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México.
 * (2016) 2do. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México
 
-## Experience level
-
-### Intermediate-Advanced 
-* Radiochromic film dosimetry.
-* Python scriptng.
-
-### Intermediate 
-* Github usage
-* Packaging Python Projects
-* Read The Docs for projects documentation
-* Jekyll for static website generator
+### Technologies
+* PySide6
+* Github
 <!--
 **LuisOlivaresJ/LuisOlivaresJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
