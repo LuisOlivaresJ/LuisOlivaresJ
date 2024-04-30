@@ -8,7 +8,7 @@
 
 ## 💬 Ask me about ...
 * Film dosimetry.
-* Python scriptng.
+* Python scripting.
 
 ## 🌱 I’m currently learning ...
 * Pylinac scripting.
