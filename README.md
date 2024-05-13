@@ -4,14 +4,14 @@
 ## 🔭 I’m currently working on ...
 * Open source applications for medical physicists:
   * Dosepy: an application for film dosimetry.
-  * Pyportal: an application fot TG-307 quality assurance (QA) tests.
+  * Pyportal: an application for TG-307 quality assurance (QA) tests.
 
 ## 💬 Ask me about ...
 * Film dosimetry.
 * Python scripting.
+* Pylinac scripting.
 
 ## 🌱 I’m currently learning ...
-* Pylinac scripting.
 * Eclipse Scripting API (ESAPI).
 
 ## 👯 I’m looking to collaborate on ...
