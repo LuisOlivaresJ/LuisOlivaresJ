@@ -28,7 +28,7 @@
 * American Association of Physicists in Medicine (AAPM).
 
 ## Scientific exhibitions
-* (2023) [SMFM](https://smfm.mx/) Webinar "Python applications to medical physics". 
+* (2023) [SMFM](https://smfm.mx/) Webinar "Python applications for medical physics". 
 * (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia". 
 * (2021) [SMFM](https://smfm.mx/) Webinar "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT".
 * (2021) XIX Congreso SOMERA. "Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19".
