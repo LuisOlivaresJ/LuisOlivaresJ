@@ -17,6 +17,11 @@
 ## 👯 I’m looking to collaborate on ...
 * Open source applications for medical physics.
 
+## 📫 How to reach me: 
+**alfonso.cucei.udg@gmail.com**
+
+<hr>
+
 ## Academic profile 
 * Internship, Instituto Nacional de Cancerología (INCan) México.
 * MSc degree (Medical Physics), Universidad Nacional Autónoma de México (UNAM).
