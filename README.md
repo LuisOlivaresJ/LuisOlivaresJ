@@ -1,4 +1,4 @@
-# Luis Alfonso Olivares Jiménez
+# Luis Olivares
 * Medical Physicist in Radiation Oncology
 
 ## 🔭 I’m currently working on ...
