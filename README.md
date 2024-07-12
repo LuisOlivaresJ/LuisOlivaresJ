@@ -20,6 +20,9 @@
 ## 📫 How to reach me: 
 **alfonso.cucei.udg@gmail.com**
 
+<!-- 
+Icons generated with https://github.com/marwin1991/profile-technology-icons 
+-->
 ## Technologies
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -75,9 +78,6 @@
 * (2017) 3er. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México.
 * (2016) 2do. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México
 
-### Technologies
-* PySide6
-* Github
 <!--
 **LuisOlivaresJ/LuisOlivaresJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
