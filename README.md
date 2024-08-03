@@ -13,7 +13,7 @@
 * Pylinac scripting.
 
 ## 🌱 I’m currently learning ...
-* Eclipse Scripting API (ESAPI).
+* Eclipse Scripting API (ESAPI / [PyESAPI](https://github.com/VarianAPIs/PyESAPI)).
 
 ## 👯 I’m looking to collaborate on ...
 * Open source applications for medical physics.
