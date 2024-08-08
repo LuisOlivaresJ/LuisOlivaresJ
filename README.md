@@ -14,6 +14,7 @@
 
 ## 🌱 I’m currently learning ...
 * Eclipse Scripting API (ESAPI / [PyESAPI](https://github.com/VarianAPIs/PyESAPI)).
+* [CS50's](https://cs50.harvard.edu/x/2024/) Introduction to Computer Science.
 
 ## 👯 I’m looking to collaborate on ...
 * Open source applications for medical physics.
