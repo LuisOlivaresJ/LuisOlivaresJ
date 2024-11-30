@@ -1,5 +1,6 @@
 # Luis Olivares
-* Medical Physicist in Radiation Oncology
+* Medical Physicist in Radiation Oncology. Desktop software developer with Python.
+* [Portfolio](https://luisolivaresj.github.io/)
 
 ## 🔭 I’m currently working on ...
 * Open source applications for medical physicists:
