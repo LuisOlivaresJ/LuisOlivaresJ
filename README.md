@@ -6,7 +6,7 @@
 * Open source applications for medical physicists:
   * [Dosepy](https://dosepy.readthedocs.io/en/latest/intro.html) and [OMG Dosimetry](https://omg-dosimetry.readthedocs.io/en/latest/): applications for film dosimetry.
   * [QuAAC](https://quaac.readthedocs.io/en/latest/) a standardization effort for the storage and exchange of routine quality assurance data.
-  * [Pyportal](https://github.com/LuisOlivaresJ/Pyportal): an application for TG-307 quality assurance (QA) tests.
+  * [Penguin](https://github.com/LuisOlivaresJ/penguin)/[Pyportal](https://github.com/LuisOlivaresJ/Pyportal): a web/desktop application for TG-307 quality assurance (QA) tests.
 
 ## 💬 Ask me about ...
 * Film dosimetry.
