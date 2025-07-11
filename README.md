@@ -35,6 +35,7 @@ Icons generated with https://github.com/marwin1991/profile-technology-icons
 	<code><img height="50" src="https://github.com/scikit-image/scikit-image/blob/efe339b09ee7d9d8eb163d6750005ab0bef703b8/doc/source/_static/favicon.ico" alt="scikit-image" title="scikit-image"></code>
 	<code><img width="50" src="https://github.com/scipy/scipy/blob/0c354ea26b5c5c0f8879e219eb6c368499be5eb8/doc/source/_static/favicon.ico" alt="scipy" title="scipy"></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"></code>
+	<code><img width="50" src="https://pydicom.github.io/pydicom/stable/_static/pydicom_flat_black.svg" alt="Pydicom" title="Pydicom"></code>
 	<code><img height="50" src="https://simpleitk.org/images/SimpleITK-Icons/s-name-full-white.jpg" alt="SimpleITK" title="SimpleITK"></code>
 </div>
 
