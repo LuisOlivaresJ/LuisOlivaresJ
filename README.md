@@ -5,6 +5,7 @@
 ## 🔭 I’m currently working on ...
 * Open source applications for medical physicists:
   * [Dosepy](https://dosepy.readthedocs.io/en/latest/intro.html) and [OMG Dosimetry](https://omg-dosimetry.readthedocs.io/en/latest/): applications for film dosimetry.
+  * EQD2 calculator for DVH analysis (soon as a new feature in Dosepy). Uses dose and structure DICOM files.
   * [QuAAC](https://quaac.readthedocs.io/en/latest/) a standardization effort for the storage and exchange of routine quality assurance data.
   * [Penguin](https://github.com/LuisOlivaresJ/penguin)/[Pyportal](https://github.com/LuisOlivaresJ/Pyportal): a web/desktop application for TG-307 quality assurance (QA) tests.
 
@@ -15,7 +16,6 @@
 
 ## 🌱 I’m currently learning ...
 * Eclipse Scripting API (ESAPI / [PyESAPI](https://github.com/VarianAPIs/PyESAPI)).
-* [CS50's](https://cs50.harvard.edu/x/2024/) Introduction to Computer Science.
 
 ## 👯 I’m looking to collaborate on ...
 * Open source applications for medical physics.
