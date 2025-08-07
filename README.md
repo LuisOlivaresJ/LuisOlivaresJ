@@ -5,7 +5,7 @@
 ## 🔭 I’m currently working on ...
 * Open source applications for medical physicists:
   * [Dosepy](https://dosepy.readthedocs.io/en/latest/intro.html) and [OMG Dosimetry](https://omg-dosimetry.readthedocs.io/en/latest/): applications for film dosimetry.
-  * EQD2 calculator for DVH analysis (soon as a new feature in Dosepy). Uses dose and structure DICOM files.
+  * Dose acumulation (EQD2) on re-irradiation (soon as a new feature in Dosepy), using DICOM files.
   * [QuAAC](https://quaac.readthedocs.io/en/latest/) a standardization effort for the storage and exchange of routine quality assurance data.
   * [Penguin](https://github.com/LuisOlivaresJ/penguin)/[Pyportal](https://github.com/LuisOlivaresJ/Pyportal): a web/desktop application for TG-307 quality assurance (QA) tests.
 
