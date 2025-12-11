@@ -4,7 +4,7 @@
 
 ## 🔭 I’m currently working on ...
 * Open source applications for medical physicists:
-  * [SimpleMRI](pyrt.app/mri_tps) a DICOM tool for conversion of MR Image (DICOM files) for use in treatment planning systems like Eclipse or Monaco.
+  * [SimpleMRI](https://pyrt.app/mri_tps) a DICOM tool for conversion of MR Image (DICOM files) for use in treatment planning systems like Eclipse or Monaco.
   * [Dosepy](https://dosepy.readthedocs.io/en/latest/intro.html) and [OMG Dosimetry](https://omg-dosimetry.readthedocs.io/en/latest/): applications for film dosimetry.
   * Dose acumulation (EQD2) on re-irradiation (soon as a new feature in Dosepy), using DICOM files.
   * [QuAAC](https://quaac.readthedocs.io/en/latest/) a standardization effort for the storage and exchange of routine quality assurance data.
