@@ -1,5 +1,5 @@
 # Luis Olivares
-* Medical Physicist in Radiation Oncology. Desktop software developer with Python.
+* Medical Physicist in Radiation Oncology. Software developer. DICOM Tools for Radiotherapy
 * [Portfolio](https://luisolivaresj.github.io/)
 
 ## 🔭 I’m currently working on ...
